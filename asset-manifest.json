@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReadingList/static/css/main.7e8cc881.css",
+    "main.js": "/ReadingList/static/js/main.294e73c0.js",
+    "index.html": "/ReadingList/index.html",
+    "main.7e8cc881.css.map": "/ReadingList/static/css/main.7e8cc881.css.map",
+    "main.294e73c0.js.map": "/ReadingList/static/js/main.294e73c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e8cc881.css",
+    "static/js/main.294e73c0.js"
+  ]
+}
